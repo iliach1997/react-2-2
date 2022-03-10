@@ -1,0 +1,50 @@
+[
+    {
+        "categori":"ხილეული",
+        "name":"ვაშლი",
+        "price": 1,
+        "stoke":false
+    },
+    {
+        "categori":"ხილეული",
+        "name":"ქლიავი",
+        "price": 3,
+        "stoke":false
+    },
+    {
+        "categori":"ბოსტნეული",
+        "name":"პომიდორ",
+        "price": 1,
+        "stoke":true
+    },
+    {
+        "categori":"ბოსტნეული",
+        "name":"კომბოსტო",
+        "price": 1,
+        "stoke":true
+    },
+    {
+        "categori":"ხილეული",
+        "name":"ვაშლი",
+        "price": 1,
+        "stoke":false
+    },
+    {
+        "categori":"ხილეული",
+        "name":"ქლიავი",
+        "price": 3,
+        "stoke":false
+    },
+    {
+        "categori":"ბოსტნეული",
+        "name":"პომიდორ",
+        "price": 1,
+        "stoke":true
+    },
+    {
+        "categori":"ბოსტნეული",
+        "name":"კომბოსტო",
+        "price": 1,
+        "stoke":true
+    }
+]
